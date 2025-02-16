@@ -1,4 +1,4 @@
 # Nex-Bot-Src
 LEAKED BY ANKUSH
 # SUPPORT SERVER 
-https://discord.gg/hBvdRJgXzM
+SERVER LINK : https://discord.gg/hBvdRJgXzM
