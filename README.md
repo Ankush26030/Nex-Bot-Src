@@ -1,2 +1,4 @@
 # Nex-Bot-Src
-FUCKED BY ANKUSH
+LEAKED BY ANKUSH
+# SUPPORT SERVER 
+https://discord.gg/hBvdRJgXzM
