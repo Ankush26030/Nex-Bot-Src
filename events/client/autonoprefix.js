@@ -8,11 +8,11 @@ module.exports = async (client) => {
             let after = n.roles.cache.has(role.id)
             if (!before && after) {
        await client.db.push(`noprefix_${client.user.id}`,n.id)      
-       await client.channels.cache.get('1296487522184200286').send(`Auto Noprefix Added To ${n} With Reason : \`Boosted The Server\``)
+       await client.channels.cache.get('1266479983141064795').send(`Auto Noprefix Added To ${n} With Reason : \`Boosted The Server\``)
             }
             if (before && !after) {
                 await client.db.pull(`noprefix_${client.user.id}`,o.id)       
-                await client.channels.cache.get('1296487522184200286').send(`Auto Noprefix Removed To ${o} With Reason : \`Removed The Boost\``)
+                await client.channels.cache.get('1266480031811502133').send(`Auto Noprefix Removed To ${o} With Reason : \`Removed The Boost\``)
 
                      }
         }      
